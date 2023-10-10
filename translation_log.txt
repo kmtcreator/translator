@@ -1,0 +1,3 @@
+2023-10-10 10:36:06 - Burmese: မင်္ဂလာပါ -> English: Hello
+2023-10-10 10:36:06 - Burmese: သီချင်း -> English: Song
+2023-10-10 10:36:06 - Burmese: ပြန်လည်သွားပါ -> English: Return
